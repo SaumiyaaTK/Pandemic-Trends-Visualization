@@ -1,42 +1,64 @@
-# 🦠 Pandemic Trends Interactive Dashboard  
+# 🦠 Pandemic Analysis Dashboard 🌍📊  
 
-## 📌 Introduction
-The **Pandemic Trends Interactive Dashboard** is a Power BI project that provides insights into the spread and impact of the COVID-19 pandemic worldwide.  
-Using data sourced from **Kaggle**, this dashboard combines **KPIs, maps, and interactive charts** to make pandemic analysis clear and intuitive.  
+![Pandemic Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
 
-It enables users to track **cases, deaths, recoveries, and testing efforts**, along with country-specific deep-dives for better decision-making and awareness.  
+## 📌 Project Overview  
+The **Pandemic Analysis Dashboard** is an **interactive Power BI project** created to visualize and analyze the impact of the global pandemic. It provides **comprehensive insights** into confirmed cases, recoveries, deaths, and testing patterns worldwide.  
 
-
----
-
-## 🎯 Key Highlights
-- **Global Metrics:**  
-  - **675M** Total Cases  
-  - **7M** Total Deaths  
-  - **629M** Total Recovered  
-  - **7bn** Total Tests  
-
-- **Interactive Visuals**:  
-  ✅ **World Map** – Deaths by country  
-  ✅ **Bar Chart** – Top 10 countries by total cases  
-  ✅ **Treemap** – Total recoveries by country  
-  ✅ **Donut Chart** – Deaths by active cases & country  
-  ✅ **Bubble Chart** – Tests vs Cases vs Deaths  
-
-- **Country Filter Panel**: Select any country to zoom into its pandemic data.  
+This dashboard is designed to help **students, analysts, businesses, and policymakers** understand how the pandemic evolved across regions and identify **actionable insights**.  
 
 ---
 
-## 🔍 Insights Derived
-- The **United States** recorded the highest number of cases and recoveries.  
-- **India, France, and Germany** are among the top 5 most affected countries.  
-- Testing efforts varied greatly by region, with some countries conducting billions of tests.  
-- Mortality distribution showed concentrated hotspots in certain regions.  
-- Interactive analysis helps compare **active cases vs recoveries vs deaths** dynamically.  
+## 🎯 Objectives  
+- 🌍 Provide a **global view** of pandemic statistics.  
+- 📊 Identify **top affected countries** and their recovery rates.  
+- 🧾 Visualize **cases, deaths, and recoveries** with dynamic visuals.  
+- 🎯 Enable **interactive filtering** for country-level insights.  
+- 🔄 Build a **user-friendly Power BI dashboard** for quick exploration.  
 
 ---
 
-## 🛠 Tools & Technologies
-- **Power BI** – for dashboard creation & interactivity  
-- **Power Query** – for cleaning and transforming datasets  
-- **Kaggle Dataset** – primary data source  
+## 📊 Key Features  
+- 🌍 **Global Insights** – Total cases, deaths, recoveries, and testing counts.  
+- 📈 **Top 10 Countries** – Ranked by total cases.  
+- 🗺️ **Geographical Spread** – Map showing total deaths by country.  
+- 🧾 **Donut Charts** – Deaths by active cases and regions.  
+- 📉 **Case Trends** – Comparative analysis of recoveries vs. deaths.  
+- 🎯 **Dynamic Filters** – Slicers for country-level analysis.  
+
+---
+
+## 🛠️ Tools & Technologies  
+- ⚡ **Power BI** – Dashboard creation and analysis.  
+- 🖥️ **Power Query** – Data preprocessing and cleaning.  
+- 📂 **Kaggle Dataset** – COVID-19 dataset used for analysis.  
+
+---
+
+## 📸 Dashboard Preview  
+![Pandemic Dashboard](./pandemic_dashboard.png)  
+
+---
+
+## 🔍 Dashboard Sections Explained  
+- **Total Deaths by Country (Map)** → Shows death distribution globally.  
+- **Top 10 Countries by Cases** → Identifies the most affected nations.  
+- **Recovery Tree Map** → Displays country-wise recovery distribution.  
+- **Deaths by Active Cases (Donut)** → Helps compare active vs. resolved cases.  
+- **Testing vs. Cases (Bubble Chart)** → Shows relation between testing and cases.  
+
+---
+
+## 🔮 Insights & Learnings  
+- The **United States** and **India** recorded the highest case counts.  
+- **Brazil and Germany** showed strong recovery rates.  
+- Testing intensity varied heavily across regions, influencing reported cases.  
+- High death-to-case ratios revealed **weak healthcare infrastructures** in some areas.  
+
+---
+
+## 🚀 Getting Started  
+
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/your-username/pandemic-analysis-dashboard.git
