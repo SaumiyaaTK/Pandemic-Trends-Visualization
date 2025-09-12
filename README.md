@@ -31,11 +31,6 @@ The **Pandemic Analysis Dashboard** is an **interactive Power BI project** creat
 
 ---
 
-## 📸 Dashboard Preview  
-![Pandemic Dashboard](./pandemic_dashboard.png)  
-
----
-
 ## 🔍 Dashboard Sections Explained  
 - **Total Deaths by Country (Map)** → Shows death distribution globally.  
 - **Top 10 Countries by Cases** → Identifies the most affected nations.  
