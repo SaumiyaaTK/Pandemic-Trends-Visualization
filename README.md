@@ -2,7 +2,7 @@
 
 <!-- Workspace image -->
 <p align="center">
-  <img src="(https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif)" alt="Coding at desk" width="480"/>
+  <img src="([https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif](https://i.pinimg.com/originals/a8/d8/66/a8d866c87e75ae65af8a3f167ee1e8f6.gif))" alt="Coding at desk" width="480"/>
 </p>
 
 ## 📌 Introduction
