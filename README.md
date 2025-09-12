@@ -1,6 +1,6 @@
-# 🦠 Pandemic Trends Interactive Dashboard
+# 🦠 Pandemic Trends Interactive Dashboard  
 
-![Animated Pandemic Data](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
+![Pandemic Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
