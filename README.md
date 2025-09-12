@@ -1,21 +1,11 @@
 # 🦠 Pandemic Trends Interactive Dashboard  
 
-![Pandemic Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
-
----
-
 ## 📌 Introduction
 The **Pandemic Trends Interactive Dashboard** is a Power BI project that provides insights into the spread and impact of the COVID-19 pandemic worldwide.  
 Using data sourced from **Kaggle**, this dashboard combines **KPIs, maps, and interactive charts** to make pandemic analysis clear and intuitive.  
 
 It enables users to track **cases, deaths, recoveries, and testing efforts**, along with country-specific deep-dives for better decision-making and awareness.  
 
----
-
-## 📸 Dashboard Preview
-Here’s a snapshot of the interactive dashboard:  
-
-![Pandemic Dashboard Screenshot](./images/pandemic_dashboard.png)  
 
 ---
 
