@@ -1,6 +1,6 @@
 # Smart Fitness Devices: Strategic Insights Dashboard
 
-![Animated Dashboard Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+![Jogging Girl Checking Smartwatch](https://media.tenor.com/jogging-girl-smartwatch.gif)
 
 ---
 
