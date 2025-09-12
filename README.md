@@ -1,6 +1,6 @@
 # Smart Fitness Devices: Strategic Insights Dashboard
 
-![Jogging Girl Checking Smartwatch]([https://media.tenor.com/jogging-girl-smartwatch.gif](https://media1.tenor.com/m/CEZNZuqbvXIAAAAC/mina-fleuret-running.gif))
+![Girl Jogging with Smartwatch](https://example.com/path/to/your-gif.gif)
 
 ---
 
