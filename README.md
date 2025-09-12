@@ -1,11 +1,7 @@
-# 🦠 Pandemic Analysis Dashboard 🌍📊  
-
-![Pandemic Animation](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)  
+# 🦠 Pandemic Analysis Dashboard 🌍📊    
 
 ## 📌 Project Overview  
-The **Pandemic Analysis Dashboard** is an **interactive Power BI project** created to visualize and analyze the impact of the global pandemic. It provides **comprehensive insights** into confirmed cases, recoveries, deaths, and testing patterns worldwide.  
-
-This dashboard is designed to help **students, analysts, businesses, and policymakers** understand how the pandemic evolved across regions and identify **actionable insights**.  
+The **Pandemic Analysis Dashboard** is an **interactive Power BI project** created to visualize and analyze the impact of the global pandemic. It provides **comprehensive insights** into confirmed cases, recoveries, deaths, and testing patterns worldwide. This dashboard is designed to help **students, analysts, businesses, and policymakers** understand how the pandemic evolved across regions and identify **actionable insights**.  
 
 ---
 
@@ -57,8 +53,5 @@ This dashboard is designed to help **students, analysts, businesses, and policym
 
 ---
 
-## 🚀 Getting Started  
+## 📂 Attachments
 
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/your-username/pandemic-analysis-dashboard.git
