@@ -1,64 +1,46 @@
-# Smart Fitness Devices: Strategic Insights Dashboard
+# Pandemic Trends Interactive Dashboard
 
-![Girl Jogging with Smartwatch](https://example.com/path/to/your-gif.gif)
+![Animated Pandemic Data](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
 ## 📌 Introduction
-The **Smart Fitness Devices: Strategic Insights Dashboard** is an advanced data visualization project designed in **Power BI**.  
-With the rapid growth of the **wearable technology market**, fitness trackers and smartwatches have become an integral part of everyday life. From monitoring heart rates to tracking workouts, consumers now rely on these devices to support healthier lifestyles.  
+The **Pandemic Trends Interactive Dashboard** is a data-driven project developed in **Power BI** to analyze global COVID-19 statistics.  
+The pandemic was one of the most significant global events of the decade, and this project provides an interactive platform to understand **case trends, testing efforts, recoveries, and mortality rates**.  
 
-This project analyzes key metrics such as **selling price, customer ratings, battery life, and display type** to deliver **actionable insights** about the smart fitness device market.  
-
-The dashboard empowers:  
-- **Consumers** – to compare devices and make informed purchase decisions.  
-- **Businesses & Marketers** – to understand competition, pricing, and customer preferences.  
-- **Researchers** – to evaluate industry trends and innovation opportunities.  
+By combining **cleaned datasets from Kaggle** with advanced Power BI visualizations, this dashboard allows users to explore pandemic data dynamically, identify patterns, and draw meaningful insights that can support decision-making, research, and awareness.  
 
 ---
 
 ## 🎯 Project Objectives
-The primary goals of this dashboard are to:  
-- Provide a **holistic view** of the smart fitness devices market.  
-- Enable **comparisons** between brands, display types, and performance metrics.  
-- Identify **patterns and trends** in pricing, ratings, and battery performance.  
-- Present a **visually engaging, interactive platform** for data-driven insights.  
+- Visualize the spread and impact of COVID-19 across countries and regions.  
+- Enable **trend analysis** for cases, deaths, recoveries, and testing rates.  
+- Provide **geographic insights** through interactive maps.  
+- Support **data exploration** with slicers and filters for country, date, and region.  
+- Present findings in a user-friendly dashboard accessible to both technical and non-technical audiences.  
 
 ---
 
 ## ✨ Features
-- **Brand vs Average Selling Price**  
-  Compare top brands like Samsung, Fitbit, and Huawei on pricing strategies.  
-
-- **Brand vs Average Ratings**  
-  Identify which brands have consistently high **customer satisfaction**.  
-
-- **Battery Life vs Selling Price**  
-  Discover how battery capacity influences device cost.  
-
-- **Display Type Insights**  
-  Explore the relationship between **display technologies** (AMOLED, OLED, LED, etc.) and average selling prices.  
-
-- **Device Model Count**  
-  Visualize the number of available models across brands to understand **market diversity**.  
-
-- **Interactive Filters & Slicers**  
-  Filter by brand or device type (Fitness Band / Smartwatch) for **custom exploration**.  
+- **Global Overview**: Track confirmed cases, recoveries, deaths, and testing.  
+- **Interactive Visuals**: Dynamic charts for daily, weekly, and cumulative trends.  
+- **Geographical Mapping**: Visualize case distribution across continents and countries.  
+- **Peak & Hotspot Detection**: Identify regions with the most severe outbreaks.  
+- **Custom Slicers**: Filter by region, country, or timeline to drill down into data.  
+- **Testing vs Cases**: Correlation analysis between testing intensity and confirmed cases.  
+- **User-Friendly Design**: Intuitive layout for quick insights and decision-making.  
 
 ---
 
 ## 📊 Dataset Information
-The dataset includes smart fitness device attributes:  
-- **Brand Name** (e.g., Samsung, Fitbit, Apple, Xiaomi)  
-- **Device Type** (Fitness Band or Smartwatch)  
-- **Selling Price**  
-- **Battery Life (days)**  
-- **Display Type** (AMOLED, OLED, TFT, LED, etc.)  
-- **Customer Ratings**  
+- **Source**: Kaggle (COVID-19 Global Dataset)  
+- **Data Attributes**: Confirmed cases, deaths, recoveries, and testing counts.  
+- **Preprocessing**: Data cleaned using **Power Query** – duplicates removed, missing values handled, and consistent formats applied.  
 
-Data preprocessing was performed in **Power Query**, ensuring:  
-- Removal of duplicates  
-- Consistent data formatting  
-- Handling of missing values  
-- Creation of calculated measures for deeper insights  
+---
 
+## 🚀 Installation & Setup
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/yourusername/pandemic-trends-dashboard.git
+   cd pandemic-trends-dashboard
