@@ -1,5 +1,9 @@
 # 🦠 Pandemic Analysis Dashboard 🌍📊    
 
+<div align="center">
+  <img src="https://github.com/SaumiyaaTK/Pandemic-Trends-Visualization/blob/main/Pandemic Screenshot.png" alt="Pandemic-Trends-Visualization">
+</div>
+
 ## 📌 Project Overview  
 The **Pandemic Analysis Dashboard** is an **interactive Power BI project** created to visualize and analyze the impact of the global pandemic. It provides **comprehensive insights** into confirmed cases, recoveries, deaths, and testing patterns worldwide. This dashboard is designed to help **students, analysts, businesses, and policymakers** understand how the pandemic evolved across regions and identify **actionable insights**.  
 
@@ -85,7 +89,6 @@ Enabling decision-makers 🧑‍💼👩‍💼 to **explore data interactively*
 
 ## 📂 Attachments 📎  
 - 📑 [Power BI Dashboard](Dashboard/) → Power BI `.pbix` file 📂  
-- 🖼️ [Dashboard Screenshot](Screenshot/) → Preview images 🖼️  
 - 📊 [COVID-19 Dataset](Dataset/) → Dataset from Kaggle 🏅  
 
 ---
