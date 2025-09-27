@@ -1,4 +1,4 @@
-# 🦠 Pandemic Analysis Dashboard 🌍📊    
+# 🌍🦠 Pandemic Analysis Dashboard     
 
 <div align="center">
   <img src="https://github.com/SaumiyaaTK/Pandemic-Trends-Visualization/blob/main/Pandemic Screenshot.png" alt="Pandemic-Trends-Visualization">
