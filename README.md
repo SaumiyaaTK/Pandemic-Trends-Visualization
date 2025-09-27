@@ -60,7 +60,7 @@ The **Pandemic Analysis Dashboard** is an **interactive Power BI project** creat
 
 ---
 
-## 🔍 Key Features ✨  
+## 🔍 Key Features 
 - 📈 **Trend Analysis** → Time-based performance tracking   
 - 🏆 **KPI Cards** → Displaying key business metrics 
 - 🌍 **Regional/Category-wise breakdown** → Insights by geography & category   
